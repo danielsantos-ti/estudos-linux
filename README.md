@@ -1,5 +1,5 @@
 # Estudos-linux
-Construindo seu Ambiente de Estudos Linux: Do Zero ao Júnior
+Construindo meu Ambiente de Estudos Linux: Do Zero ao Júnior
 
 ## Descrição
 
